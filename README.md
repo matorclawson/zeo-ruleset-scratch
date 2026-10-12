@@ -1,2 +1,4 @@
-# zeo-ruleset-scratch
-ZEO-RT attended setup qualification: synthetic GitHub ruleset fixtures only, Architect ans_e9c23475acaa28c8
+# Disposable ruleset test fixture
+
+Synthetic repository used only to check repository rules.
+No product source, credentials, private data or workflows are included.
