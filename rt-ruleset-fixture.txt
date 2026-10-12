@@ -1,1 +1,1 @@
-Synthetic negative mutation target.
+Synthetic fixture for the second quality policy.
